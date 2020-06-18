@@ -50,6 +50,7 @@ Obtener todos los municipios por el id del estado
 
  - Parametros
     - id (Entero)
+
 ```
 {
 "municipios": [
@@ -63,11 +64,13 @@ Obtener todos los municipios por el id del estado
     ],
 }
 ```
+
 ## GET /api_estados/municipios_estado/Jalisco
 Obtener todos los municipios por el nombre del estado
 
  - Parametros
     - nombre (String)
+
 ```
 {
 "municipios": [
@@ -89,6 +92,7 @@ Obtener todas las localidades por el id del municipio
 
 - Parametros
     - id (Entero)
+
 ```
 {
 "localidades": [
@@ -107,6 +111,7 @@ Obtener todas las localidades por el nombre del estado
 
 - Parametros
     - nombre (String)
+    
 ```
 {
 "localidades": [
