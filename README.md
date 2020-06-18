@@ -8,6 +8,8 @@ La informacon que contiene dicha API es una serie de rutas para obtener tanto es
         - Descarga del sitio oficial [Node js](https://nodejs.org/es/download/).
 
     - Motor de base de datos MySQL
+     
+        - Descarga de base de datos en siguiente repositorio de [developarts](https://github.com/developarts/cat_inegi/releases/tag/2018.09.v01)
 
 - Instalar módulos de Node js dentro del proyecto
     
@@ -111,7 +113,7 @@ Obtener todas las localidades por el nombre del estado
 
 - Parametros
     - nombre (String)
-    
+
 ```
 {
 "localidades": [
